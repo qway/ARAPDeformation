@@ -4,3 +4,5 @@ This will be achieved by using the joints of the skeleton as handles for the ARA
 
 ## Requirements
 * RGB-D senor (Kinect or alike)
+
+Fork of the original repo to streamline it for presentational purposes
